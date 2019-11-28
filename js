@@ -1,0 +1,1 @@
+$('.corosuel').slick();
